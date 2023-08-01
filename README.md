@@ -1,6 +1,6 @@
-# DataAnalysisExcel
+# Data Analysis through Excel
 
-Bajaj Store (Data Analysis)
+1. Bajaj Store (Data Analysis through Excel)
 
 Sample Insights
 
@@ -10,4 +10,14 @@ Adult age group (30-49 yrs) contributes maximum (-50%) Amazon, Flipkart and Mynt
 Final Conclusion to improve Bajaj store sales:
 
 Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing 
-ads/different offers/coupons available on Amazon, Flipkart and Myntra
+ads/different offers/coupons available on Amazon, Flipkart and Myntra.
+
+# Data Analysis through Power BI
+
+2. Tata Ecommerce Sales Dashboard  (Data Analysis through Power BI)
+
+• Created interactive dashboard to track and analyze online sales data, Used complex parameters to drill down in worksheet and customization using filters and slicers
+• Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations
+• Used different types of
+customized
+visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
