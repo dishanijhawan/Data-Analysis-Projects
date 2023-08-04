@@ -20,3 +20,7 @@ ads/different offers/coupons available on Amazon, Flipkart and Myntra.
 • Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations.
 
 • Used different types of customized visualization.
+
+# HR Analytics Dashboard
+
+This dashboard basically shows the attritions taking place in a company and what can be the possible reasons for it.
