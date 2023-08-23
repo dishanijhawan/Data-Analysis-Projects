@@ -1,4 +1,4 @@
-# 1 Data Analysis through Excel
+# 1. Data Analysis through Excel
 
 Bajaj Store (Data Analysis through Excel)
 
@@ -23,7 +23,7 @@ Tata Ecommerce Sales Dashboard  (Data Analysis through Power BI)
 
 # 3. HR Analytics Dashboard (Power BI)
 
-This dashboard basically shows the attritions taking place in a company and what can be the possible reasons for it.
+This dashboard basically shows the attritions taking place in a company and what can be the possible reasons for it. This dashboard shows visualisations for the reasons of this attrition.
 
 # 4. Sales Dashboard (Power BI)
 
