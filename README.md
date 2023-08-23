@@ -1,6 +1,4 @@
-# 1. Data Analysis through Power BI
-
-Tata Ecommerce Sales Dashboard  (Data Analysis through Power BI)
+# 1. Tata Ecommerce Sales Dashboard  (Data Analysis through Power BI)
 
 • Created interactive dashboard to track and analyze online sales data, Used complex parameters to drill down in worksheet and customization using filters and slicers.
 
